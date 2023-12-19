@@ -1357,7 +1357,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐏𝐇', callback_data='tele') 
          ], [ 
              InlineKeyboardButton('𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒', callback_data='coct'), 
-             InlineKeyboardButton('𝐄𝐗𝐓𝐑𝐀', callback_data='extra') 
+             InlineKeyboardButton('𝐄𝐗𝐓𝐑𝐀', callback_data='extramod') 
          ], [ 
              InlineKeyboardButton(' 𝐅𝐈𝐋𝐓𝐄𝐑𝐒 ', callback_data='filters'), 
              InlineKeyboardButton('STATUS', callback_data='stats')
@@ -1537,7 +1537,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     
-    elif query.data == "extra":
+    elif query.data == "extramod":
         buttons = [[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='admin')
         ]]
@@ -1548,13 +1548,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text=script.EXTRA_TXT,
+            text=script.EXTRAMOD_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "rule":
         buttons = [[
-            InlineKeyboardButton('•𝐁𝐀𝐂𝐊•', callback_data='about')
+            InlineKeyboardButton('•𝐁𝐀𝐂𝐊•', callback_data='admin')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
