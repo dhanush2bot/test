@@ -1,30 +1,27 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 𝐈'𝐦<a href=https://t.me/{}>{}</a>, 𝐲𝐨𝐮𝐫 𝐠𝐨-𝐭𝐨 𝐦𝐨𝐯𝐢𝐞 𝐜𝐨𝐦𝐩𝐚𝐧𝐢𝐨𝐧! 🎬✨ 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐨𝐫 𝐣𝐨𝐢𝐧 𝐨𝐮𝐫𝐬 𝐟𝐨𝐫 𝐚𝐧 𝐞𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐦𝐨𝐯𝐢𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. 𝐄𝐧𝐣𝐨𝐲 𝐨𝐧𝐥𝐢𝐧𝐞 𝐬𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐰𝐢𝐭𝐡 𝐝𝐢𝐫𝐞𝐜𝐭, 𝐚𝐝-𝐟𝐫𝐞𝐞 𝐟𝐢𝐥𝐞 𝐚𝐜𝐜𝐞𝐬𝐬. 𝐋𝐞𝐭 𝐭𝐡𝐞 𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐛𝐞𝐠𝐢𝐧! 🍿
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🔰 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/filmyspotupdate'>𝐅𝐈𝐋𝐌𝐘𝐒𝐏𝐎𝐓 𝐌𝐎𝐕𝐈𝐄𝐒</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🔰 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/filmyspotupdate'>𝐅𝐈𝐋𝐌𝐘𝐒𝐏𝐎𝐓 𝐌𝐎𝐕𝐈𝐄𝐒</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TG_autofilter_bot>TG_autofilter_bot</a>
- ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/TG_UPDATES1'>UPDATES</a> 
- ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
- ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
- ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
- ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>RENDER</a> 
- ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+ ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/filmyspot1_bot>𝐅𝐈𝐋𝐌𝐘 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓</a>
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/filmyspotupdate'>𝐔𝐏𝐃𝐀𝐓𝐄𝐒</a> 
+ ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌</a> 
+ ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>𝐏𝐘𝐓𝐇𝐎𝐍 𝟑</a> 
+ ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>𝐌𝐀𝐍𝐆𝐎 𝐃𝐁</a> 
+ ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>𝐑𝐄𝐍𝐃𝐄𝐑</a> 
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.2 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>🌟 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐜𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐨𝐮𝐭 𝐭𝐡𝐢𝐬 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐛𝐨𝐭! 🤖 𝐔𝐧𝐟𝐨𝐫𝐭𝐮𝐧𝐚𝐭𝐞𝐥𝐲, 𝐢𝐭'𝐬 𝐧𝐨𝐭 𝐚𝐧 𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭. 𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐡𝐚𝐯𝐢𝐧𝐠 𝐚 𝐛𝐨𝐭 𝐣𝐮𝐬𝐭 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 𝐨𝐧𝐞, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐛𝐲 𝐜𝐥𝐢𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰! 🚀📲
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-Fork our repository and give star ⭐- <a href='https://github.com/Kushalhk/TG_BOTZ/tree/stream-feature'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+<a href='https://t.me/FilmySpotSupport_bot'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -46,7 +43,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TG_UPDATES1)</code>
+<code>[Button Text](buttonurl:https://t.me/filmyspotupdate)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -75,9 +72,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KUSHALHK>OWNER</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/FilmySpotSupport_bot>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TG_UPDATES1>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/filmyspotupdate>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -90,7 +87,7 @@ my features Stay here new features coming soon...
   
  ./tts - <code>This command usage text to voice converter</code> 
   
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
+ ./video - This command usage any YouTube video download hd [<code>example /video https://www.youtube.com/shorts/H4B2tEB0lmI</code>]
 
 ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
@@ -168,7 +165,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TG_UPADTES1/346> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/filmyspotupdate/72> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -176,9 +173,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://moneykamalo.com/ref/Harikushal>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://moneykamalo.com/ref/dhanushrs>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TG_UPDATES1/346> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/filmyspotupdate/72> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -222,11 +219,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """ 
 <b>══════════════════
 🗂 {file_name}
-═══════════════════ 
-𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/TG_LINKS_CHANNEL">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
-╚══════════════════╝</b>"""
+═════════════════════ 
+𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @filmyspotmovie</b>"""
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
@@ -440,7 +435,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
     
     DELF_TXT = """
-ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+Tʜɪs ɪs ᴀɴ  Pʀɪᴠᴀᴛᴇ ᴘʀᴏɪᴇᴄᴛ.
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ. .."""
 
@@ -454,36 +449,76 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ᴠ2.8.1 [sᴛᴀʙʟᴇ] """
 
     LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)"""
+   ███████╗██╗██╗     ███╗   ███╗██╗   ██╗███████╗██████╗  ██████╗ ████████╗
+   ██╔════╝██║██║     ████╗ ████║╚██╗ ██╔╝██╔════╝██╔══██╗██╔═══██╗╚══██╔══╝
+   █████╗  ██║██║     ██╔████╔██║ ╚████╔╝ ███████╗██████╔╝██║   ██║   ██║   
+   ██╔══╝  ██║██║     ██║╚██╔╝██║  ╚██╔╝  ╚════██║██╔═══╝ ██║   ██║   ██║   
+   ██║     ██║███████╗██║ ╚═╝ ██║   ██║   ███████║██║     ╚██████╔╝   ██║   
+   ╚═╝     ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝   ╚══════╝╚═╝      ╚═════╝    ╚═╝   """
 
 # dont remove my logo 
-    PAID_TXT = """<b>Join a Prime group to get free movie without any ads
-Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href='https://telegram.me/+uaYeWVXMRrk2Zjk1'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+    PAID_TXT = """
+<b>🌟 Join our Prime group to enjoy movies without any ads! 🚀
+Save your valuable time – no more ads, just pure entertainment!
 
-Prime Membership Progress
+🎬 Prime Membership Plans:
 
-1 month - 15 Rs
+1️⃣ 1 day - ₹5 (trial)
+2️⃣ 1 week - ₹9
+3️⃣ 1 Month – ₹30
+4️⃣ 3 Months - ₹70
+5️⃣ 6 Months - ₹130
+6️⃣ 1 Year - ₹250
 
-3 Months – 50 RS
-
-6 months - 95 Rs
-
-12 Months - 300 Rs [1 Month Free Trial]
-
-♛ UPI ID »»————> harikushal234@okicici
+🚀 Click [here](https://cosmofeed.com/vig/657538fb2e3f6b001e3cc0c0) to pay and become a Prime Member!
 
 Would you like to become a Prime Member? Follow these steps:-
+🔗 Step 1: Click the link/button "Click to Pay" to visit the website.
+🛒 Step 2: Select the plan you like.
+💳 Step 3: Make a payment using apps like Google PAY, PAYTM.
+💌 Step 4: After payment, you'll receive a Telegram link to join our exclusive paid channel.
+📲 Step 5: Join the channel (don't leave until you access premium).
+📤 Step 6: Send the payment screenshot to our admin.
 
-✤ Step 1: Go to any payment app like Google PAY, PAYTM,
-✤ Step 2: Pay using UPI ID depending on your plan.
-✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
+Any doubts or need assistance becoming a Prime member? Contact me @FilmySpotSupport_bot 🤖</b>"""
 
-Any doubts or how to become a prime member? contact me @KUSHALHK @TG_Bots_Supporter</code></b>"""
+# Use the PAID_TXT variable as needed in your code
 
 
 
+RULE_TXT = """♦ 𝗚𝗿𝗼𝘂𝗽 𝗥𝘂𝗹𝗲𝘀 ♦
+
+◈ <b>Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴘᴇʟʟɪɴɢ:</b>
+• ᴀᴠᴀᴛᴀʀ 𝟸𝟶𝟶𝟿 ✅
+• ᴀᴠᴀᴛᴀʀ ʜɪɴᴅɪ ✅
+• ᴀᴠᴀᴛᴀʀ ᴍᴏᴠɪᴇ ❌
+• ᴀᴠᴀᴛᴀʀ ʜɪɴᴅɪ ᴅᴜʙʙᴇᴅ..❌
+
+◈ <b>Sᴇᴀʀᴄʜ Wᴇʙ Sᴇʀɪᴇs Iɴ ᴛʜɪs Fᴏʀᴍᴀᴛ:</b>
+• ᴠɪᴋɪɴɢs S𝟶𝟷 ✅
+• ᴠɪᴋɪɴɢs S𝟶𝟷E𝟶𝟷 ✅
+• ᴠɪᴋɪɴɢs S𝟶𝟷 ʜɪɴᴅɪ ✅
+• ᴠɪᴋɪɴɢs S𝟶𝟷 ʜɪɴᴅɪ ᴅᴜʙʙ... ❌
+• ᴠɪᴋɪɴɢs sᴇᴀsᴏɴ 𝟷 ❌
+• ᴠɪᴋɪɴɢs ᴡᴇʙ sᴇʀɪᴇs ❌
+
+<b>➙ ᴅᴏɴ'ᴛ ᴅᴏ ᴀɴʏ ꜱᴇʟꜰ ᴘʀᴏᴍᴏᴛɪᴏɴ. 
+➙ ᴅᴏɴ'ᴛ ꜱᴇɴᴅ ᴀɴʏ ᴋɪɴᴅ ᴏꜰ ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ, ᴅᴏᴄᴜᴍᴇɴᴛꜱ, ᴜʀʟ, ᴇᴛᴄ...
+➙ ᴅᴏɴ'ᴛ ʀᴇǫᴜᴇꜱᴛ ᴀɴʏ ᴛʜɪɴɢꜱ ᴏᴛʜᴇʀ ᴛʜᴀɴ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴀᴛɪᴏɴ, ᴄᴀʀᴛᴏᴏɴ, ᴀɴɪᴍᴇ, ᴋ-ᴅʀᴀᴍᴀ ᴍᴀɴʏ ᴍᴏʀᴇ.</b>
+
+🔰 <b>Nᴏᴛᴇ :</b> ᴀʟʟ ᴍᴇꜱꜱᴀɢᴇꜱ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀꜰᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇꜱ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪꜱꜱᴜᴇꜱ."""
   
+DHANUSH_TXT = """ 
+<b>🔥 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 🔥
+
+➻ 𝐍𝐨 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐯𝐞𝐫𝐢𝐟𝐲
+➻ 𝐃𝐢𝐫𝐞𝐜𝐭 𝐟𝐢𝐥𝐞𝐬 𝐚𝐜𝐜𝐞𝐬𝐬
+➻ 𝐀𝐝-𝐟𝐫𝐞𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+➻ 𝐇𝐢𝐠𝐡-𝐬𝐩𝐞𝐞𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐥𝐢𝐧𝐤
+➻ 𝐔𝐧𝐥𝐢𝐦𝐢𝐭𝐞𝐝 𝐦𝐨𝐯𝐢𝐞𝐬 𝐚𝐧𝐝 𝐬𝐞𝐫𝐢𝐞𝐬
+➻ 𝐅𝐮𝐥𝐥 𝐚𝐝𝐦𝐢𝐧 𝐬𝐮𝐩𝐩𝐨𝐫𝐭
+➻ 𝐅𝐚𝐬𝐭 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
+➻ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠
+➻ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐬 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐢𝐧 𝟏 𝐡𝐨𝐮𝐫 𝐢𝐟 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞
+
+‼️ 𝐂𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐚𝐥𝐥 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐩𝐥𝐚𝐧𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞𝐢𝐫 𝐩𝐫𝐢𝐜𝐞𝐬</b>"""
